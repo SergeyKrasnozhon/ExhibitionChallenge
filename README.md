@@ -68,6 +68,7 @@ Good luck!
 
 If you wish, you can solve the following extra challenges to stand out from the crowd and impress us.
 
-1. Whenever the user taps the first header button, the circles layout should be re-shuffled to a new layout.
-2. The ring should rotate around the circle in a constant motion, making a full circle once every 40 seconds.
-3. When the user taps a circle, the circle should re-configure itself to a random new "available" mode.
+1. Ensure that the layout nicely adopts orientation changes to landscape.
+2. Whenever the user taps the first header button, the circles layout should be re-shuffled to a new layout.
+3. The ring should rotate around the circle in a constant motion, making a full circle once every 40 seconds.
+4. When the user taps a circle, the circle should re-configure itself to a random new "available" mode.
