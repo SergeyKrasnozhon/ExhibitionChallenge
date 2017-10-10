@@ -14,7 +14,7 @@ This challenge is inspired by the Avengers S.T.A.T.I.O.N. mobile application (iO
 As a general time guide, the challenge was completed by us in 3 hours, bonus points one extra hour.
 You have all the time you need to complete the challenge at your leisure.
 
-Submit your solution as a pull request or contact us via: http://interactive.acoustiguide.com
+Don't publish your solution on Github.  For any questions, contact us via: http://interactive.acoustiguide.com
 
 
 ## Layout
