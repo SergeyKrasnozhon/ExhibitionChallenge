@@ -1,2 +1,7 @@
+.idea
+.gradle
+.DS_Store
+*.iml
+local.properties
 xcuserdata
-.idea/workspace.xml
+build

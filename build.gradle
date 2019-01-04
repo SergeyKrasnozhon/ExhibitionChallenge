@@ -1,0 +1,26 @@
+allprojects {
+    tasks.withType( JavaCompile ) {
+        options.encoding = 'UTF-8'
+        sourceCompatibility = '1.8'
+        targetCompatibility = '1.8'
+    }
+}
+
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+
+    dependencies {
+        classpath group: 'com.android.tools.build', name: 'gradle', version: '3.1.0'
+    }
+}
+
+subprojects {
+    repositories {
+        google()
+        jcenter()
+        mavenCentral()
+    }
+}
