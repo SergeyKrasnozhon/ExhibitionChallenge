@@ -12,7 +12,7 @@ Develop a bare-bone user interface for an exhibition application based on the "A
 This challenge is inspired by the "Avengers S.T.A.T.I.O.N." mobile application (iOS / Android) developed by us:
 http://to.acoustiguide.com/avengers/demo
 
-As a general time guide, the challenge was completed by us in 3 hours, bonus points one extra hour.
+As a general time guide, the challenge was completed by us in 3 hours (per platform), bonus points one extra hour.
 You have all the time you need to complete the challenge at your leisure.
 
 Be a good code-repository citizen.  Commit your code in logical blocks and often.
